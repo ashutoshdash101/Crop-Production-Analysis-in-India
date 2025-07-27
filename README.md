@@ -22,3 +22,6 @@ Crop Production Analysis in India is a project focused on exploring and analyzin
 1. **Clone the repository**:
    ```sh
    git clone https://github.com/ashutoshdash101/Crop-Production-Analysis-in-India.git
+
+## Contact
+For any queries or suggestions, please contact [Ashutosh Dash](mailto:ashutoshpiku1234@gmail.com).
