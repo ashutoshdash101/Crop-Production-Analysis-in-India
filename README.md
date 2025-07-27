@@ -2,7 +2,7 @@
 
 ## Overview
 
-Crop Production Analysis in India is a project focused on exploring and analyzing agricultural production across various regions of India using data-driven techniques. The main goal is to uncover trends, patterns, and insights in crop production that can help stakeholders and decision-makers understand the landscape of 
+Crop Production Analysis in India is a project focused on exploring and analyzing agricultural production across various regions of India using data-driven techniques. The main goal is to uncover trends, patterns, and insights in crop production that can help stakeholders and decision-makers understand the landscape of Indian agriculture.
 
 ## Features
 
